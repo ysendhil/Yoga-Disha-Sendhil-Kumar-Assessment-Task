@@ -32,13 +32,9 @@ If the credentials are expired, they will be refreshed automatically.
 
 4. Run the Script in Colab
 Once the authentication is complete, the script will:
-
 Create a new Google Doc.
-
 Convert markdown content into the Google Doc format.
-
 Add headings, bullet points, and checkboxes.
-
 Insert meeting notes into the document.
 
 5. Modify the Markdown Content
